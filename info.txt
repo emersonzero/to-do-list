@@ -5,3 +5,7 @@
 5 - Create the components in the App.styles.ts e import
 6 - Create a folder types witch, Item.ts 
 7 - Create a useStates
+8 - Create a object with two items.
+9 - Create a new folder components witch (List-item - index and style) 
+10 - Create useStates
+11 - Create checkbox, checked, onChange.

@@ -9,7 +9,8 @@ export const Container = styled.div(({ done }:ContainerProps)=>(
     display: flex;
     background-color: #20212C;
     padding: 10px;
-    border-radius: 10px;
+    margin: 20px 0;
+    border-radius: 15px;
     border-bottom: 10px;
     align-items: center;
 
