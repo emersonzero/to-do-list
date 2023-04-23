@@ -1,0 +1,7 @@
+1 - Install react witch typescript
+2 - Install styled-components
+3 - Install the types: npm i -D @types/styled-components
+4 - Create app.styles.ts
+5 - Create the components in the App.styles.ts e import
+6 - Create a folder types witch, Item.ts 
+7 - Create a useStates
